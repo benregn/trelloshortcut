@@ -1,7 +1,7 @@
 How-to install
 ==============
 
-1. Download a .ZIP file from this site.
+1. `Download <https://github.com/benregn/trelloshortcut/zipball/master/>`_ a .ZIP file.
 2. Extract the .zip file somewhere. Note where, you'll need it later.
 3. Got to Chrome's wrench icon in the top right corner and choose Tools > Extensions.
 4. At the top, on the right side, tick the box next to Developer mode.
