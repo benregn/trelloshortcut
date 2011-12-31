@@ -1,0 +1,13 @@
+{
+  "name": "Trello",
+  "description": "Shortcut to Trello.com",
+  "version": "1.0",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "launch": {
+      "web_url": "http://trello.com/"
+    }
+  }
+}
